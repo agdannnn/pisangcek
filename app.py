@@ -195,7 +195,7 @@ def predict_image(image):
 
 with st.sidebar:
 
-    st.title("Sistem Deteksi Kematangan Buah hehe Pisang")
+    st.title("Sistem Deteksi Kematangan Buah Pisang")
 
     st.caption(
         "MUHAMMAD AGDAN WIRAYUDHA - TEKNIK INFORMATIKA 25"
