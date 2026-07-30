@@ -5,7 +5,7 @@ from PIL import Image
 import os
 
 st.set_page_config(
-    page_title="Sistem Deteksi Kematangan Buah Pisang",
+    page_title="Sistem Deteksi Kematangan 1  Buah Pisang",
     page_icon="🍌",
     layout="wide"
 )
@@ -195,7 +195,7 @@ def predict_image(image):
 
 with st.sidebar:
 
-    st.title("Sistem Deteksi Kematangan Buah Pisang")
+    st.title("Sistem Deteksi Kematangan Buah hehe Pisang")
 
     st.caption(
         "MUHAMMAD AGDAN WIRAYUDHA - TEKNIK INFORMATIKA 25"
