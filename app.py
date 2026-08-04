@@ -2,11 +2,11 @@ import streamlit as st
 import tensorflow as tf
 import numpy as np
 from PIL import Image
-import os
+import os 
 
 st.set_page_config(
     page_title="Sistem Deteksi Kematangan 1  Buah Pisang",
-    page_icon="🍌",
+    page_icon="",
     layout="wide"
 )
 @st.cache_resource
